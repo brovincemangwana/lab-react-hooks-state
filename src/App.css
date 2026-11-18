@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+.App {
+  min-height: 100vh;
+  padding: 1rem;
+}
+.App.light {
+  background: #ffffff;
+  color: #111111;
+}
+.App.dark {
+  background: #111111;
+  color: #f5f5f5;
+}
